@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../components/Navigation/Header'
 import LeftNavBar from '../components/Navigation/LeftNavBar'
 import "./nav.css"
-import HotList from '../components/HotList/HotList'
+import HotListCard from '../components/HotList/HotListCard'
 import Slider from './Slider'
 
 const HomePage = () => {
@@ -17,7 +17,7 @@ const HomePage = () => {
               </div>
               <div className="hotlist-section">
                 <h4>HotList</h4>
-                {/* <HotList /> */}
+                <HotListCard />
               </div>
             </div>   
         </div>

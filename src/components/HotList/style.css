@@ -1,0 +1,42 @@
+.hotlist-row{
+    display: flex;
+    flex-direction: row;
+}
+.hotlist{
+    display: flex;
+    flex-direction: column;
+}
+.hotlist-link{
+    padding: 10px;
+    cursor: pointer;
+    color: #333;
+    margin-top: -10px;
+}
+
+.hotlist-card {
+    display: flex;
+    padding: 10px;
+    position: relative; 
+}
+.hotlist-card img {
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.play-show {
+    font-size: 50px;
+    color: #333;
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background: rgba(0, 0, 0, 0.3); 
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.play-show:hover {
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.7); 
+}

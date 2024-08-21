@@ -1,32 +1,49 @@
 [
     {
         "id":"1",
-        "title":"Daily Trending"
-
+        "title":"Daily Trending",
+        "cover-image":"./images/carousel/person-1.jpg"
     },
     {
         "id":"2",
-        "title":"African Trending"
+        "title":"African Trending",
+        "cover-image":"./images/carousel/person-2.jpg"
 
     },
     {
         "id":"3",
-        "title":"Daily HotList"
+        "title":"Daily HotList",
+        "cover-image":"./images/carousel/person-3.jpg"
 
     },
     {
         "id":"4",
-        "title":"Daily Amapiano Wave"
+        "title":"Daily Amapiano Wave",
+        "cover-image":"./images/carousel/person-4.jpg"
 
     },
     {
         "id":"5",
-        "title":"Fresh Amapiano Wave"
+        "title":"Fresh Amapiano Wave",
+        "cover-image":"./images/carousel/person-5.jpg"
 
     },
     {
         "id":"6",
-        "title":"Women PlayList"
+        "title":"Women PlayList",
+        "cover-image":"./images/carousel/person-6.jpg"
+
+    },
+    {
+        "id":"5",
+        "title":"Fresh Amapiano Wave",
+        "cover-image":"./images/carousel/person-5.jpg"
+
+    },
+    {
+        "id":"6",
+        "title":"Women PlayList",
+        "cover-image":"./images/carousel/person-6.jpg"
 
     }
 ]
