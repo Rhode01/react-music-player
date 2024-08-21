@@ -16,6 +16,8 @@ const HomePage = () => {
                 <Slider />
               </div>
               <div className="hotlist-section">
+                <h4>HotList</h4>
+                
               </div>
             </div>   
         </div>
