@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useState } from "react";
+import { Fragment} from "react";
 import { Carousel } from "antd";
 import carouselData from "./carouselData.json"
 import Card from "./Card";
