@@ -1,0 +1,44 @@
+[
+    {
+        "artist":"Kodark Black",
+        "song":"No Love For A Thug",
+        "cover-image":"./images/carousel/",
+        "description":"A soulful hip-hop track about the struggles of growing up in a tough neighborhood"
+    },
+    {
+        "artist":"Driemo Mw",
+        "song":"Trailer",
+        "cover-image":"./images/carousel/",
+        "description":"An upbeat Afrobeats track about living life to the fullest"
+    },
+    {
+        "artist":"The Weeknd",
+        "song":"Blinding Lights",
+        "cover-image":"./images/carousel/",
+        "description":"A synth-heavy R&B track with a retro vibe"
+    },
+    {
+        "artist":"Billie Eilish",
+        "song":"Bad Guy",
+        "cover-image":"./images/carousel/",
+        "description":"A dark and moody pop track with a haunting chorus"
+    },
+    {
+        "artist":"Kendrick Lamar",
+        "song":"Alright",
+        "cover-image":"./images/carousel/",
+        "description":"A powerful hip-hop anthem about hope and resilience"
+    },
+    {
+        "artist":"Taylor Swift",
+        "song":"Shake It Off",
+        "cover-image":"./images/carousel/",
+        "description":"A catchy and upbeat pop track about embracing individuality"
+    },
+    {
+        "artist":"Phyzix",
+        "song":"Mkazi Wa Ndirande",
+        "cover-image":"./images/carousel/",
+        "description":"A lyrical hip-hop anthem about life in the streets of Blantyre"
+    }
+]

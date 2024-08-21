@@ -1,0 +1,26 @@
+import React from 'react'
+import Header from '../components/Navigation/Header'
+import LeftNavBar from '../components/Navigation/LeftNavBar'
+import "./nav.css"
+import { Content } from 'antd/es/layout/layout'
+import Slider from './Slider'
+
+const HomePage = () => {
+  return (
+    <div className='container'>
+        <Header />
+        <div className="content">
+            <LeftNavBar />
+            <div className="body">
+              <div className="slider-section">
+                <Slider />
+              </div>
+              <div className="hotlist-section">
+              </div>
+            </div>   
+        </div>
+    </div>
+  )
+}
+
+export default HomePage
