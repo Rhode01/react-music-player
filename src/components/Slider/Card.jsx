@@ -13,7 +13,7 @@ export default function Card({data, id}) {
        <div className='hero-artist'>
             <h4 className='title'>{data.artist}</h4>
             <p className='song'>{data.song}</p>
-            <p className='desc'>{data.description}</p>
+            {/* <p className='desc'>{data.description}</p> */}
        </div>
        <div className='hero-artist-image'>
             <img src={data['cover-image']} alt="Song artist"  />
